@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "sunny-strategy-324006",
+  "private_key_id": "e27d6dff781d398e15c0fd118f55f6389c49000c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDZSmoU3atBvRPD\n3OOY1S/uj88vR3SfgUCrg/EkHQ702jwKglh3UENwX4XRWxgXWulrszGvX+Qw1KrS\nBb16eFOxAFtGfNwvAFcW9oQlNkGtiF+pX6t5Uz2YHiUjMZxOLBLFTy6PMQ1J5N/X\nqbem/u0c5KtZ9EB5iBj9WYrf8Aoon4U0cyPh3wz+W2p9YsUWExLPjVeV64saG3qx\ne1ZzySFHQfMBQiWE0xzm+ygTjttRGKwVMhycmqITQSf4k/YqXJ3418qyArWzn9UW\nKhZBUe0sg+QNNFFBGJCTXshEyipMwIY2QSjqknIxpkeWd2cfvuWNgUFTtbjMDOv/\nHl3EGeQ9AgMBAAECggEANsoRt5MxVJElg7SV2vqebGvslQJSgMmpkdXiHvYIyGqi\nyw+U2PjvGE2tw11R1MnCo7p6Y7stIbbuH6j83v2qNK5fVYW0S1GtpAeiyHNG2kfR\nvzZ1WVFI7atkN9yRihCI5yGRHuACdsh0PL/5o+0RwsBSCIuTGlHb4z4Jy2+OUDF5\n6OAon4zjl6Irb0opKwyTOKgWJBA8U410upyNyd1Jnw/Ok0XlYMkrrYMu15g+zm4n\nXuQ2OMh2p+Ngz8DyBno7VZXSoVJvl59ziufsmixoxf8Q7sUj1Lasp74tTlA1cWKg\nOTxJO7+NwzKXlWm3WXw/6pggOM+TS9ls5rsEXpy47QKBgQD2l9NQS22QkQo67V52\njfdT4UppJB3Bb130yA/8skdzUeOlk4g6gTE/dO52Buw/Ryzd5xlVgM1rS2U7rHMZ\nMLmAm4wRIEkOCNb4xNIESftrqTbzpSTV36mgALBLkmYeiDWDexVYEJTuQP4xEEQP\nR7/2Uhen+ZQTmL9kSmM/5fmZBwKBgQDhlG2cOZQHwEdc7jpdmhE1EREFNwnAAOCf\ndN79Y1TaxT6cssPuWY5eiuaAxhWw5US3GMVuR4YlmFCIl0RLy8sWDiGBuDCl2ot2\n607/6rZGuy530mD1eQjr22byHb17s5Ak/EJhQ7F9ZBRg0n4QLRUU1TKfNXszeCrs\n8RKA8VWbmwKBgAPbUgnCdD87lX5gcgbGp6SfNGu6jeCVnlGSw3U/UJDEKhxP12Sa\n2qtUZ9pet1kyAsihsaq9rfjMoBOz2cT+Fxik1ib6a0oV507SvTol8hG3/s0GuzHB\nIsUG3bsA2ioGFVguF6Jd+AZV6+PWjkny5FS06fvNknxP+kZWR4EbVrEHAoGBAIP9\nwIEX47kBVgBXWIlqW8UsPkRJ5weUu9oxnUSweXck0LUJmMF/X2GMbsFMpmaCUEm+\nUc9sRF79F6pEsG6VSTiXfh2T88sn7FDh8LCn2o3aep8b1yXq80BmeX8Tzcpyz9YE\nUKbu4AzZoV7h62d1qY8uDFfCCFueZaeMi2ItVAUfAoGAB1lvBMHv/Pf0d3clmawI\nnAwNweORhPrJt3Ne/g10ECxYIwHCe6m3rCX5+DjChrL5eeoc0alo+tkZzmzoMyia\ny8wVM+UOtehIKgBWP2GBhJbQpN6x8IItekXDtC3KoJmdky4G5GgD0hjYLnE2yb1W\nzgDWwdOiXESzurvbNwY9V+Y=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc--kodwzofdirjfqokwviopxblv4@sunny-strategy-324006.iam.gserviceaccount.com",
+  "client_id": "107001091285355734308",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc--kodwzofdirjfqokwviopxblv4%40sunny-strategy-324006.iam.gserviceaccount.com"
+}
